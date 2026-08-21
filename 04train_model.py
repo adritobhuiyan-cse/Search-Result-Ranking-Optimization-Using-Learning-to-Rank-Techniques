@@ -1,5 +1,5 @@
 """
-STEP 4 — LambdaMART Training  (Ovi's Role)
+STEP 4 — LambdaMART Training  (Adrito's Role)
 Reads features_dataset.csv → trained_ranking_model.pkl
 
 Run: python step4_train_model.py
