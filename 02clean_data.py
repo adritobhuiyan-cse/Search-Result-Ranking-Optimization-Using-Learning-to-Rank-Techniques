@@ -1,5 +1,5 @@
 """
-STEP 2 — Data Cleaning  (Badhon's Role)
+STEP 2 — Data Cleaning  (Shafi's Role)
 Reads raw_msmarco.csv → clean_search_dataset.csv
 Run: python step2_clean_data.py
 """
