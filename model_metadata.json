@@ -1,0 +1,22 @@
+{
+  "feature_cols": [
+    "query_len",
+    "doc_len",
+    "query_avg_tf",
+    "passage_uniq_ratio",
+    "query_doc_len_ratio",
+    "term_overlap",
+    "keyword_density",
+    "exact_match",
+    "jaccard_similarity",
+    "term_overlap_bigram",
+    "first_occurrence_rank",
+    "tfidf_cosine",
+    "bm25_score",
+    "idf_sum",
+    "avg_idf_of_overlap_terms",
+    "tf_idf_sum_overlap",
+    "dwell_time_proxy",
+    "ctr"
+  ]
+}
